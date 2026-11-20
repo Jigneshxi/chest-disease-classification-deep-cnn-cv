@@ -1,0 +1,21 @@
+{
+  "Test_Accuracy": 1.0,
+  "Macro_Precision": 1.0,
+  "Macro_Recall": 1.0,
+  "Macro_F1": 1.0,
+  "Weighted_F1": 1.0,
+  "Mean_ROC_AUC": 1.0,
+  "Per_Class_ROC_AUC": {
+    "Bacterial_Pneumonia": 1.0,
+    "COVID19": 1.0,
+    "Normal": 1.0,
+    "Viral_Pneumonia": 1.0
+  },
+  "Class_Names": [
+    "Bacterial_Pneumonia",
+    "COVID19",
+    "Normal",
+    "Viral_Pneumonia"
+  ],
+  "Best_Val_Accuracy": 1.0
+}
